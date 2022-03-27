@@ -10,9 +10,6 @@ Admin Page
 Teacher's Page
 ![image](https://user-images.githubusercontent.com/42488988/139692914-a7fcb417-af5a-4b76-b2a8-3b0155d9a56e.png)
 
-Student Page
-![image](https://user-images.githubusercontent.com/42488988/139693102-fd780306-1025-4c93-acd4-3f0add3f7d93.png)
-
 Acountent Page
 ![image](https://user-images.githubusercontent.com/42488988/139693468-6b92e368-ae48-4714-a9bd-418074f524a7.png)
 
